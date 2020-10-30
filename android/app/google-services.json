@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "897317886368",
+    "firebase_url": "https://vc-chat-3c9da.firebaseio.com",
+    "project_id": "vc-chat-3c9da",
+    "storage_bucket": "vc-chat-3c9da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897317886368:android:b74bffdd3a86a177142cc5",
+        "android_client_info": {
+          "package_name": "com.example.vc_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897317886368-p20vv58kc5uesp22qotmeb0ciapepk8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5A8nP4F8LaOujx32J_7oB44barRuymcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897317886368-p20vv58kc5uesp22qotmeb0ciapepk8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
